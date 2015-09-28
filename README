@@ -1,9 +1,14 @@
 This folder contains following codes. This codes are specific for atmega328p.
 LED              - First code for Beginners for any controller.
-	               knowledge required: LED connection(sink or source)
+	             knowledge required: LED connection(sink or source)
 	  
 serialdebug_intr - Writing to debug terminal using uart.
-				   knowledge required: UART.
+				 knowledge required: UART.
+				 
+
+serialdebug_wointr - Writing to debug terminal using uart.
+				 knowledge required: UART.
+
 
  
 
