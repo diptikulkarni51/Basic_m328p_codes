@@ -2,13 +2,30 @@ This folder contains following codes. This codes are specific for atmega328p.
 LED              - First code for Beginners for any controller.
 	             knowledge required: LED connection(sink or source)
 	  
-serialdebug_intr - Writing to debug terminal using uart.
+serialdebug_intr - Writing to debug terminal using uart with interrupt.
 				 knowledge required: UART.
 				 
 
 serialdebug_wointr - Writing to debug terminal using uart.
 				 knowledge required: UART.
 
+Timers – Blinking LED using timers. 
+				Knowledge required: timers
+
+Uart_login_char – login on serial terminal. EEPROM used for critical data ie char password hardcoded.
+				Knowledge required: EEPROM
+
+Uart_login_V2.0- login on serial terminal . EEPROM used for critical data- user can define char password.
+				Knowledge required: EEPROM
+
+Uart_login_V3.0- login on serial terminal. EEPROM used for critical data-user defined password.
+				Knowledge required :EEPROM
+
+RTC – Real time clock hardcoded
+				Knowledge required :RTC chip datasheet, I2C
+
+RTC – real time clock. User can set time and date.
+				Knowledge required : RTC chip, I2C, handling Strings
 
  
 
