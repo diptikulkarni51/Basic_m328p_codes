@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "uart_login", "uart_login\uart_login.cproj", "{8560B52B-1B10-4ADE-B875-5C215229D352}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8560B52B-1B10-4ADE-B875-5C215229D352}.Debug|AVR.ActiveCfg = Debug|AVR
+		{8560B52B-1B10-4ADE-B875-5C215229D352}.Debug|AVR.Build.0 = Debug|AVR
+		{8560B52B-1B10-4ADE-B875-5C215229D352}.Release|AVR.ActiveCfg = Release|AVR
+		{8560B52B-1B10-4ADE-B875-5C215229D352}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
