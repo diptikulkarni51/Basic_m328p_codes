@@ -28,4 +28,4 @@ RTC – real time clock. User can set time and date.
 				Knowledge required : RTC chip, I2C, handling Strings
 
  
-
+RTOS_demo – basic rtos porting with simple task creation of led blinking.
